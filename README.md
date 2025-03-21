@@ -1,5 +1,4 @@
 # Rom-ChangeLogs
-Violet
 Highlights & Device Specific Changes:
 Build type: Stable/Monthly
 Device name: Redmi Note 7 Pro

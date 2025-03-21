@@ -13,4 +13,5 @@ Device maintainer: ANIRBAN
 * Misc fixes and optimizations
 * Dolby included
 * Meme camera included
-* And more
+* Removed BCR, Browser, Recorder and more
+* Bug fixes
